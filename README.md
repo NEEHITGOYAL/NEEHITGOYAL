@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Neehit Goyal</h1>
-<h3 align="center">A passionate IoT developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neehitgoyal" alt="neehitgoyal" /> </p>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
@@ -44,7 +43,8 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio" alt = "VisualStudio"width="40" height="40"/></a>   
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neehitgoyal&layout=compact" alt="neehitgoyal" /></p>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=neehitgoyal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="neehitgoyal Github Stats">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neehitgoyal&show_icons=true" alt="neehitgoyal" /></p>
 
