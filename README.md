@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DS ALGO**
 
-- 💬 Ask me about **IoT,Arduino,Microcontrollers,Sensor Interfacing**
+- 💬 Ask me about **IoT,Arduino,Microcontrollers,Sensor Interfacing,ROS**
 
 - 📫 How to reach me **goyalneehit@gmail.com**
 
