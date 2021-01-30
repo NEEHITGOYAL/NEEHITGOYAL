@@ -28,6 +28,7 @@
 <a href="https://www.hackerrank.com/goyalneehit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@goyalneehit" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@goyalneehit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@goyalneehit" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/goyalneehit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="goyalneehit" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/neehit" target="blank"><img align="center" src="https://www.saashub.com/images/app/service_logos/41/fb1029f65050/large.png?1582014860" alt="neehit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
