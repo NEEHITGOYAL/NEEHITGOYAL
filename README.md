@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neehitgoyal" alt="neehitgoyal" /> </p>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
-- 🔭 I’m currently working on [Sahayak Bot](https://github.com/NEEHITGOYAL/Sahayak-Bot)
+- 🔭 I’m currently working on [PyQt Gui](https://github.com/NEEHITGOYAL/Pythongui)
 
 - 🌱 I’m currently learning **DS ALGO**
 
